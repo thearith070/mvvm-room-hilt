@@ -14,7 +14,7 @@ It provides data streams to the View. It also uses hooks or callbacks to update 
 
 
 ### 2. Room
-***Room is now considered as a better approach for data persistence than SQLiteDatabase. 
+***[Room](https://developer.android.com/training/data-storage/room) is now considered as a better approach for data persistence than SQLiteDatabase. 
 It makes it easier to work with SQLiteDatabase objects in your app, decreasing the amount of boilerplate code and verifying SQL queries at compile time.***
 
 ### 3. Dagger Hilt
