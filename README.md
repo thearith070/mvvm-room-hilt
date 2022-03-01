@@ -1,6 +1,6 @@
 # MVVM, Room and Dagger Hilt
 
-## Hi! This project is the sample for the beginner who wanna try `MVVM` pattern. Which is popular ones for Android Development.
+## Hi! This project is the sample for who wanna try `MVVM` pattern. Which is popular ones for Android Development.
 
 ### 1. MVVM stands for `Model`, `View`, `ViewModel`.
 
